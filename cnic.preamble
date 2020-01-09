@@ -1,0 +1,2 @@
+Requires:	kmod-bnx2x = 1.72.00_0
+Requires:	kmod-bnx2 = 2.2.1
